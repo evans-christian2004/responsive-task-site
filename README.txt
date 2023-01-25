@@ -1,0 +1,4 @@
+- this is a project from Design course that I followed along with
+- I slightly edited it:
+    - enlarging the maps view on the mobile view
+    - keeping the nav bar at the top of the page
